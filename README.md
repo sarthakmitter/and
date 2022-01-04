@@ -6,4 +6,4 @@
 
 4.Preferably copy the file to some other folder and don't keep it in the downloads folder
 
-5.Open __init__.py and follow instructions
+5.Open "__init__.py" and follow instructions
